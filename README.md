@@ -1,1 +1,0 @@
-# stepik_auto_test3.6
